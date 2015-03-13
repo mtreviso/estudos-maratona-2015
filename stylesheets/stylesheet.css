@@ -445,7 +445,50 @@ a {
 }
 a:hover {
   color: #2268b2;
+  text-decoration: underline;
 }
+
+#logo{
+  color: inherit;
+}
+
+#logo:hover{
+  text-decoration: none;
+}
+
+
+#content-nav{
+  margin-top: -20px;
+  width: 100%;
+  background: #2e7bcf;
+
+}
+
+#main-navigation{
+  margin-left: -20px;
+  padding: 0;
+}
+
+#main-navigation a{
+  color: #FFF;
+  display: block;
+  padding: 12px 30px;
+  text-decoration: none;
+}
+
+#main-navigation a:hover{
+  background: #3D86D3;
+}
+
+#main-navigation li{
+    float: left;
+    margin: 0px 6px 0px 0px;
+}
+
+#main-navigation ul, ol{
+    list-style: none;
+}
+
 
 header {
   padding-top: 40px;
@@ -497,6 +540,10 @@ header h2 {
   max-width: 100%;
 }
 
+span.ident{
+  margin-left: 2em;
+}
+
 aside#sidebar {
   float: right;
   width: 200px;
@@ -510,6 +557,11 @@ aside#sidebar {
 aside#sidebar p.repo-owner,
 aside#sidebar p.repo-owner a {
   font-weight: bold;
+}
+
+.product{
+  float: left;
+  margin-right: 30px;
 }
 
 #downloads {
