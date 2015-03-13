@@ -438,6 +438,11 @@ body {
 
 p {
   margin-top: 0;
+  text-align: justify;
+}
+
+p.pcenter{
+  text-align: center;
 }
 
 a {
