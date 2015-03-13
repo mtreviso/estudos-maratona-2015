@@ -46,4 +46,4 @@ Na web é possível encontrar de tudo, o mais sugerido por esse grupo é o segui
 
 ### Mais informações
 
-Acesse a página desse repositório através do link: 
+Acesse a página desse repositório através do link: http://meitcher.github.io/estudos-maratona-2015/
