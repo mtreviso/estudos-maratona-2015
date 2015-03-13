@@ -30,16 +30,20 @@ Sejamos honestos, ninguém nasce sabendo. Os problemas da maratona geralmente é
 Pelo mais fácil, mas não ficar eternamente nisso. Comente no grupo da computação no facebook e certamente alguém irá te ajudar, além disso você pode estudar por conta própria, há vários sites que trazem problemas semelhantes ao da maratona. Há também vários livros que auxiliam no treinamento.
 
 
-### Materiais úteis:
+### Materiais úteis
 
 Na web é possível encontrar de tudo, o mais sugerido por esse grupo é o seguinte:
 
 * __Livros__: 
-⋅⋅* [Introdução a Algoritmos - 3 edição - CLRS](http://mitpress.mit.edu/books/introduction-algorithms).
-⋅⋅* [Competitive Programming - 3 edição - Halim, S.](https://sites.google.com/site/stevenhalim/).
-⋅⋅* [The Art of Computer Programming - Knuth, D.](http://www-cs-faculty.stanford.edu/~uno/taocp.html).
+  * [Introdução a Algoritmos - 3 edição - CLRS](http://mitpress.mit.edu/books/introduction-algorithms) (recomendado).
+  * [Competitive Programming - 3 edição - Halim, S.](https://sites.google.com/site/stevenhalim/) (recomendado).
+  * [The Art of Computer Programming - Knuth, D.](http://www-cs-faculty.stanford.edu/~uno/taocp.html).
 
 * __Sites para treinamento__:
-⋅⋅* [URI Online Judge](http://urionlinejudge.com.br/).
-⋅⋅* [UVa Online Judge](http://uva.onlinejudge.org/).
+  * [URI Online Judge](http://urionlinejudge.com.br/) (recomendado).
+  * [UVa Online Judge](http://uva.onlinejudge.org/).
 
+
+### Mais informações
+
+Acesse a página desse repositório através do link: 
