@@ -30,7 +30,7 @@ complexidade: O(n)
 def josephusLinear(n, k):
 	if n == 1:
 		return 0
-	return (jos(n-1, k)+k)%n
+	return (josephusLinear(n-1, k)+k)%n
 		
 
 
