@@ -1,5 +1,5 @@
 /*
-* URI 1025 - Onde está o Mármore?
+* URI 1046 - Tempo de Jogo
 * ---
 * Compile: javac uri1046.java
 * Execute: java uri1046
