@@ -5,38 +5,26 @@
 * Execute: ./teste < texto
 */
 
-#include <cstdio>
+#include <stdio.h>
 
 int main(){
-	 
-	char o;
-	double m[12][12];
+
+
+	int q, q2, n, s = 0;
 	
-	scanf("%c\n",&o);
-
-	for (int i = 0; i < 12; ++i)
-		for (int j = 0; j < 12; ++j)
-			scanf("%lf\n", &m[i][j]);
-
-
-
-	double soma = 0;
-	int count =0;
-
-	for (int i = 0; i < 12; ++i){
-		for (int j = 0; j < 12; ++j){
-			if (j>i){
-				 soma+= m[i][j];
-				 count++;
-			}
-		}
+	scanf("%d", &q);
+	
+	q2 = q;
+	
+	while(q--){
+		scanf("%d", &n);
+		s += n;
 	}
-
-	if(o=='M')
-		printf("%.1lf\n", soma/count);
+	
+	if( s*2 >= q2)
+		printf("N\n");
 	else
-		printf("%.1lf\n", soma);
-
-
+		printf("Y\n");
+	
 	return 0;
 }
