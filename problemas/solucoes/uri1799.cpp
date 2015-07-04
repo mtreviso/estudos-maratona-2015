@@ -1,7 +1,7 @@
 /*
 * URI 1799 - O Rato no Labirinto
 * ---
-* Compile: gcc -o teste uri1799.c
+* Compile: g++ -o teste uri1799.cpp
 * Execute: ./teste < texto
 */
 
